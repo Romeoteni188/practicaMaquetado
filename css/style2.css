@@ -1,0 +1,130 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+header{
+     background-image: url("/img/banner.jpg");
+}
+.site-header{
+    
+    width: 2020px;
+    height: 952px;
+}
+.barra h1{
+    padding: 150px;
+    font-size: 60px;
+    text-align: center;
+    width: 600px;
+    height: 10px;
+    color: #f1f6f0;
+  /*  background-color: aqua;*/
+}
+.barra span{
+    color: #eef4ec;
+    margin: 0;
+    width: 300px;
+    height: 100px;
+}
+
+.barra a{
+    color: #f3eeee;
+    text-decoration: none;
+}
+
+.texto-header {
+    font-size: 30px;
+    margin:450px ;
+    width: 1110px;
+    height: 150px;
+    text-align: center ;
+    color: #f1f6f0;
+   /* background-color: #bbc326;*/
+}
+.texto-header p {
+    font-size: 24px;
+    margin: 70px;
+    width: 1000px;
+    height: 200px;
+    text-align: center ;
+    color: #f1f6f0;
+}
+.navegacion{
+    font-size: 30px;
+    text-align: right;
+    margin:-200px ;
+    width: 1850px;
+    height: 60px;
+    display: block;
+    /*background-color: #40d223;*/
+}
+/*cuerp*/
+.blog{
+    text-align: center;
+    margin: 20px;
+}
+.entrada-blog{
+    text-align: left;
+    margin: -10px;
+    width: 2000px;
+   /* background-color: #7d3a0a;*/
+}
+.blog h2{
+    font-size: 50px;
+    text-align: center;
+    margin:10px ;
+    width: 2000px;
+    height: 60px;
+   /* background-color: #23acd2;*/
+}
+.imagen img{
+text-align: right;
+width: 990px;
+height: 700px;
+margin: 5px;
+padding: 30px;
+}
+
+.entrada-blog p{
+    text-align: right;
+    font-size: 23px;
+    width:  -190px;
+    height: 50px;
+    text-align: justify;
+     background-color: #23acd2;
+    margin: -600px;
+    padding: 40px;
+}
+.entrada-blog a{
+    padding: 10;
+    margin: 50px;
+    width: 500px;
+    height: 60px;
+    font-size: 30px;
+    text-align: right;
+    text-decoration: none;
+    color: #fff;
+    background-color: #060e10;
+}
+.contenido-blog p{
+    background-color: #23acd2;
+    margin: -350px;
+    padding: 19px;
+    width: 2500px;
+    height: 90px;
+    text-align: justify;
+
+}
+
+.site-footer{
+    margin: 250px;
+    width: 1900px;
+    height: 150px;
+    background-color: #0c0c0c;
+    Color: #f1f6f0;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
